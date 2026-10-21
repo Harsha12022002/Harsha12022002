@@ -1,33 +1,171 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Harsha&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Building%20systems%2C%20understanding%20internals.&descSize=16&descAlignY=72&color=0:0d1117,50:102a43,100:1d4ed8" width="100%" alt="Harsha — Systems and Software Engineering"/>
-  <br/>
-  <a href="https://github.com/Harsha12022002"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/harsha-77a1bb288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
+<!-- Replace YOUR_USERNAME and YOUR NAME everywhere -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there%2C%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" />
 
 <div align="center">
-  <h3>Curious about what happens under the hood.</h3>
-  <p>Systems programming · Distributed systems · Database internals</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=CS+%26+Engineering+(AI+%26+ML)+@+PES+University;I+build+databases+and+hypervisors+from+scratch;LSM-Tree+%7C+Raft+%7C+Linux+KVM+%7C+x86-64;950%2B+LeetCode+problems+solved;Top+7+@+Zinto+Hackathon)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/badge/LeetCode-950%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.36-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square" />
+
 </div>
 
-### `$ whoami`
-I like going beyond abstractions — understanding how things work, building them from scratch, and figuring out what happens when they break.
+---
 
-### `$ tech-stack`
+## 👨‍💻 About Me
+
+```cpp
+class Developer {
+public:
+    string name        = "YOUR NAME";
+    string college     = "PES University, Bengaluru (2023-27)";
+    string degree      = "B.Tech CSE (AI & ML)";
+    vector<string> loves = {"Storage Engines", "Distributed Systems",
+                            "Low-level Systems", "Backend Engineering"};
+    string currently   = "Building MDDB, a distributed key-value database";
+    string motto       = "If I can't build it from scratch, I don't understand it.";
+};
+```
+
+- 🔭 Building a **distributed KV database** with an LSM-Tree engine and Raft consensus
+- ⚙️ Wrote a **hypervisor in Go** on raw `/dev/kvm` that boots an x86-64 long-mode guest
+- 🧠 Implemented **Raft from scratch** in Java with a fault-tolerant 3-node Docker cluster
+- 🏆 Solved **950+ LeetCode problems** and ranked **Top 7** at a Zinto hackathon
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,go,python,js,linux,docker,spring,postgres,redis,git,cmake&theme=dark" alt="Technologies I work with"/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,go,py,js,html,css&perline=7" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,mongodb,redis&perline=7" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,redux,vite&perline=7" />
+
+**DevOps, Systems & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,nginx,prometheus,grafana,cmake,git,github,postman&perline=10" />
+
 </div>
 
-### `$ github --stats`
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsha12022002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha12022002&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Most used programming languages"/>
-</div>
+**Also:** Raft Consensus · WAL · MemTable · SSTable · Bloom Filters · Compaction · x86-64 Assembly (NASM) · KVM · Paging · PIC/PIT · JWT · OAuth 2.0
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ [MDDB, Distributed Key-Value DB](https://github.com/YOUR_USERNAME/MDDB)
+`C++17` `Go` `Raft` `LSM-Tree` `CMake`
+
+- LSM-style engine: WAL, MemTable → SSTables, tombstones, compaction, Bloom filters
+- Raft-style leader election and log replication
+- Query optimizer (full vs. index scan), 7 passing CTest suites
+- **~1.43M overwrites/s** (P99 1.1 µs), **~1.33M deletes/s** (P99 1.3 µs)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [Mini Hypervisor on Linux KVM](https://github.com/YOUR_USERNAME/Mini-Hypervisor)
+`Go` `KVM` `x86-64 ASM` `WSL2`
+
+- Built on raw `/dev/kvm` ioctls with zero external libraries
+- Boots a guest into x86-64 long mode with a hand-built GDT and identity-mapped page tables
+- Emulates a 16550 UART and delivers timer interrupts (PIC/PIT)
+- Runs a NASM guest with its own IDT and interrupt handler
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Distributed Consensus Engine, Raft](https://github.com/YOUR_USERNAME/Raft)
+`Java` `Spring Boot` `Docker`
+
+- Raft from scratch: election, replication, heartbeats, crash recovery
+- Fault-tolerant 3-node Docker cluster
+- Strong consistency across **150+ log entries**, leader re-election in **~3s**
+- Collaborative drawing board replicated leader → followers
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [Competitive Programming & Assessment System](https://github.com/YOUR_USERNAME/CP-Platform)
+`React` `Redux` `Spring Boot` `PostgreSQL` `Redis`
+
+- Full-stack LeetCode-style platform for Java and C++
+- Judge service with temp job dirs, 15s timeout, process limits
+- JWT + Google OAuth 2.0 (Spring Security)
+- JPA/Hibernate on PostgreSQL with Redis caching
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha12022002&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </div>
 
+### 📈 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+### 🐍 Contribution Snake
+
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **950+ problems on LeetCode** (Data Structures and Algorithms)
+- 🏅 **Top 7** at a hackathon conducted by **Zinto**
+
 <div align="center">
-  <sub>Learn by building. Understand by debugging. Improve by iterating.</sub>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+</a>
+
 </div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together." />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
