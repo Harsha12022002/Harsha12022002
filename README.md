@@ -154,11 +154,17 @@ public:
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Total%20Solved-971-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</div>
+
+<!-- Optional live LeetCode card: uncomment and put your real LeetCode username
+<div align="center">
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
 </a>
-
 </div>
+-->
 
 ---
 
