@@ -1,13 +1,13 @@
-<!-- Replace YOUR_USERNAME and YOUR NAME everywhere -->
+<!-- Replace YOUR_USERNAME, YOUR_LEETCODE_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there%2C%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there%2C%20I'm%20Harsha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=CS+%26+Engineering+(AI+%26+ML)+@+PES+University;I+build+databases+and+hypervisors+from+scratch;LSM-Tree+%7C+Raft+%7C+Linux+KVM+%7C+x86-64;950%2B+LeetCode+problems+solved;Top+7+@+Zinto+Hackathon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=CS+%26+Engineering+(AI+%26+ML)+@+PES+University;I+build+databases+and+hypervisors+from+scratch;LSM-Tree+%7C+Raft+%7C+Linux+KVM+%7C+x86-64;970%2B+LeetCode+problems+solved;Top+7+@+Zinto+Hackathon)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/LeetCode-950%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-970%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/CGPA-8.36-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square" />
 
@@ -20,7 +20,7 @@
 ```cpp
 class Developer {
 public:
-    string name        = "YOUR NAME";
+    string name        = "Harsha";
     string college     = "PES University, Bengaluru (2023-27)";
     string degree      = "B.Tech CSE (AI & ML)";
     vector<string> loves = {"Storage Engines", "Distributed Systems",
@@ -33,7 +33,7 @@ public:
 - 🔭 Building a **distributed KV database** with an LSM-Tree engine and Raft consensus
 - ⚙️ Wrote a **hypervisor in Go** on raw `/dev/kvm` that boots an x86-64 long-mode guest
 - 🧠 Implemented **Raft from scratch** in Java with a fault-tolerant 3-node Docker cluster
-- 🏆 Solved **950+ LeetCode problems** and ranked **Top 7** at a Zinto hackathon
+- 🏆 Solved **970+ LeetCode problems** and ranked **Top 7** at a Zinto hackathon
 
 ---
 
@@ -141,8 +141,16 @@ public:
 
 ## 🏆 Achievements
 
-- 🥇 Solved **950+ problems on LeetCode** (Data Structures and Algorithms)
+- 🥇 Solved **970+ problems on LeetCode** (Data Structures and Algorithms)
 - 🏅 **Top 7** at a hackathon conducted by **Zinto**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Easy-352%20%2F%20972-5CB8B2?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Medium-546%20%2F%202131-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Hard-73%20%2F%20984-E5484D?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</div>
 
 <div align="center">
 
