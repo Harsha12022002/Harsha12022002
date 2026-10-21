@@ -1,12 +1,10 @@
-<!-- Replace YOUR_USERNAME, YOUR_LEETCODE_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there%2C%20I'm%20Harsha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=CS+%26+Engineering+(AI+%26+ML)+@+PES+University;I+build+databases+and+hypervisors+from+scratch;LSM-Tree+%7C+Raft+%7C+Linux+KVM+%7C+x86-64;970%2B+LeetCode+problems+solved;Top+7+@+Zinto+Hackathon)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Harsha12022002&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/LeetCode-970%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/CGPA-8.36-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square" />
@@ -69,7 +67,7 @@ public:
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [MDDB, Distributed Key-Value DB](https://github.com/YOUR_USERNAME/MDDB)
+### 🗄️ MDDB, Distributed Key-Value DB
 `C++17` `Go` `Raft` `LSM-Tree` `CMake`
 
 - LSM-style engine: WAL, MemTable → SSTables, tombstones, compaction, Bloom filters
@@ -80,7 +78,7 @@ public:
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [Mini Hypervisor on Linux KVM](https://github.com/YOUR_USERNAME/Mini-Hypervisor)
+### 🖥️ Mini Hypervisor on Linux KVM
 `Go` `KVM` `x86-64 ASM` `WSL2`
 
 - Built on raw `/dev/kvm` ioctls with zero external libraries
@@ -93,7 +91,7 @@ public:
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [Distributed Consensus Engine, Raft](https://github.com/YOUR_USERNAME/Raft)
+### 🔗 Distributed Consensus Engine, Raft
 `Java` `Spring Boot` `Docker`
 
 - Raft from scratch: election, replication, heartbeats, crash recovery
@@ -104,7 +102,7 @@ public:
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [Competitive Programming & Assessment System](https://github.com/YOUR_USERNAME/CP-Platform)
+### 🧩 Competitive Programming & Assessment System
 `React` `Redux` `Spring Boot` `PostgreSQL` `Redis`
 
 - Full-stack LeetCode-style platform for Java and C++
@@ -122,20 +120,20 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsha12022002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha12022002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Harsha12022002&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ### 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha12022002&theme=tokyo-night&hide_border=true&area=true" />
 
 ### 🐍 Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Harsha12022002/Harsha12022002/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
@@ -158,13 +156,11 @@ public:
 
 </div>
 
-<!-- Optional live LeetCode card: uncomment and put your real LeetCode username
 <div align="center">
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+<a href="https://leetcode.com/Harsha_Devadiga">
+  <img src="https://leetcard.jacoblin.cool/Harsha_Devadiga?theme=dark&font=Fira%20Code&ext=heatmap" />
 </a>
 </div>
--->
 
 ---
 
@@ -172,9 +168,9 @@ public:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsha-77a1bb288)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadevadiga6289@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harsha_Devadiga)
 
 <br/>
 
